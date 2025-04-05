@@ -1,0 +1,14 @@
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\bin\Debug\net8.0\Exam_Vlasenko_PM02.exe
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\bin\Debug\net8.0\Exam_Vlasenko_PM02.deps.json
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\bin\Debug\net8.0\Exam_Vlasenko_PM02.runtimeconfig.json
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\bin\Debug\net8.0\Exam_Vlasenko_PM02.dll
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\bin\Debug\net8.0\Exam_Vlasenko_PM02.pdb
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\Exam_Vlasenko_PM02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\Exam_Vlasenko_PM02.AssemblyInfoInputs.cache
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\Exam_Vlasenko_PM02.AssemblyInfo.cs
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\Exam_Vlasenko_PM02.csproj.CoreCompileInputs.cache
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\Exam_Vlasenko_PM02.dll
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\refint\Exam_Vlasenko_PM02.dll
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\Exam_Vlasenko_PM02.pdb
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\Exam_Vlasenko_PM02.genruntimeconfig.cache
+C:\Users\vlase\Desktop\src\Exam_Vlasenko_PM02\Exam_Vlasenko_PM02\obj\Debug\net8.0\ref\Exam_Vlasenko_PM02.dll
